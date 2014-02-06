@@ -1,6 +1,8 @@
+<h1>quick-ssh</h1>
+
 Quick-ssh helps you quickly ssh to Amazon EC2 instances using the instances' name or just part of the instances' name (keyword). As a result, you no longer need to remember any ip address, public/private key (pem file), and username.
 
-HOW TO USE
+<h2>HOW TO USE</h2>
 
 Just one command: ./quick-ssh.sh <keyword>
 
