@@ -30,7 +30,7 @@ Tien@hoanhtien-pc:~/QuickSSH$ ./quick-ssh.sh gpu
 Error: Not a running instance.
 ```
 
-`quick-ssh.sh` can be run at any directory. You do not have to "cd QuickSSH" all the times.
+`quick-ssh.sh` can be run at any directory. You do not have to `cd QuickSSH` all the times.
 
 ```sh
 Tien@hoanhtien-pc:~/some_folder/some_sub_folder$ ../../QuickSSH/quick-ssh.sh redis
